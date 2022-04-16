@@ -1,6 +1,6 @@
  # TransGited
 
-> This tool can replace every Name, Username and E-mail for all projects of a Github user.
+> This tool can replace every Name, Username and E-mail in commits and files for all projects of a Github user.
 
 ```
 usage: transgited.py [-h] -u USER -n NAME -e EMAIL [-on OLDNAME] [-oe OLDEMAIL] [-a | --all | --no-all] [-r | --replace | --no-replace]
