@@ -1,4 +1,4 @@
- # TransGited
+ # TransGited 🏳️‍⚧️
 
 > This tool can replace every commit author+email and every name in all files for all projects of a Github user.
 
